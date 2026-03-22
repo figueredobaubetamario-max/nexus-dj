@@ -1,4 +1,4 @@
-pubspec.yamlname: nexus_dj
+name: nexus_dj
 description: NEXUS DJ App
 publish_to: 'none'
 version: 1.0.0+1
